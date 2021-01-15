@@ -1,4 +1,4 @@
-# LTTR/INK
+# LTTR/INK for Glyphs
 
 [LTTR/INK](https://www.letterinkapp.com/) gives type designers the handwriting simplicity when the stroke matters. Meet skeleton type design directly in the favourite software Glyphs.
 
