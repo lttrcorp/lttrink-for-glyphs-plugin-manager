@@ -6,100 +6,168 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		GBGe56vj2PsV8iu/xoOUy3z59k0=
+		D9Tesowyy0zX31mdIPsv+ljC2vc=
 		</data>
-		<key>Resources/LGFontMasterViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
 		<data>
-		U3FaK4ftfZ2nLjpj6v25q9l86/0=
+		2Wo1/GBrDMA17t09qTTP8V1QM5M=
 		</data>
-		<key>Resources/LGFontMasterViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGInactiveLicenseViewController.nib</key>
 		<data>
-		pDu+NqYLMm0D6OnzAdmN9+AKS8w=
+		X0xoxHwUPkGH/SF8Nl3r5P6iEwk=
 		</data>
-		<key>Resources/LGInactiveLicenseViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGIncompatibleGlyphsVersionViewController.nib</key>
 		<data>
-		VWaZvdwVQMBw5wdBvUCo98u+iYw=
+		VpxdQXMirCgqk1rvF1PZtMUfY2s=
 		</data>
-		<key>Resources/LGInactiveLicenseViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGLogoMenuViewController.nib</key>
 		<data>
-		WVKN7IqPWGHfmtxu5UJI6i+uKio=
+		e+5cgMx74Q85X94m93ruCbzpH7U=
 		</data>
-		<key>Resources/LGIncompatibleGlyphsVersionViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGMainInspectorViewController.nib</key>
 		<data>
-		XRa0sy1Z3559soBOrGbvZ/uoyU8=
+		p9KcfkG3VXR2J7f+77P9fgp7RDA=
 		</data>
-		<key>Resources/LGIncompatibleGlyphsVersionViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGNibStyleItemViewController.nib</key>
 		<data>
-		dWfFy6Wkp7tn6V5vcfGO5vSkvms=
+		cucQypcRpSQZzZdE+iAH+hz3QtQ=
 		</data>
-		<key>Resources/LGLegacyStraightLineNibDataViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGNibStylesViewController.nib</key>
 		<data>
-		AHJOwSH6pKDyg72xmrciQTmL4SM=
+		2mLWgtaituuJZ/XQKV2/EfwPJvM=
 		</data>
-		<key>Resources/LGLegacyStraightLineNibDataViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGNibViewController.nib</key>
 		<data>
-		waZEC3v1w3HnnNYNfh9wAYpkdYs=
+		q5gZdU5V7/DzOqKnzS7t+cJWGbM=
 		</data>
-		<key>Resources/LGLogoMenuViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGOldFileVersionViewController.nib</key>
 		<data>
-		NLUfP4fHf4/yWz6BtEuyKIE/v+g=
+		Bi6xtifaUkknkrl04QjQLR7WFlc=
 		</data>
-		<key>Resources/LGLogoMenuViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGRequestTrialLicenseWindowController.nib</key>
 		<data>
-		XR7dL5ankHgWgXBiP6Feuv/d0zc=
+		VgN8qcfvfHtT8iVktDqQWT92e3M=
 		</data>
-		<key>Resources/LGMainInspectorViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>
 		<data>
-		zUeGDxDEt37F873vIPMmkWuoxLU=
+		nOOxLk1oxyP6ECZ3dyevAvKRWV8=
 		</data>
-		<key>Resources/LGMainInspectorViewController.nib/keyedobjects.nib</key>
+		<key>Resources/LGNibEllipsisNibDataViewController.nib</key>
 		<data>
-		sBBhhRkcPoz6PgKpfliytoqK1CQ=
+		7UgPwIy3KGnWs5OLX+txdv2i6Vo=
 		</data>
-		<key>Resources/LGNibEllipsisNibDataViewController.nib/keyedobjects-101300.nib</key>
-		<data>
-		Ih2tLJF7PrjdZAl92jQcQtDORdw=
-		</data>
-		<key>Resources/LGNibEllipsisNibDataViewController.nib/keyedobjects.nib</key>
-		<data>
-		sAoSoL3Z4pYGdJNMboAmKtu2GTE=
-		</data>
-		<key>Resources/LGNibStyleItemViewController.nib/keyedobjects-101300.nib</key>
-		<data>
-		gXgOFwAGnA3BI09gtoS/fwBEs3E=
-		</data>
-		<key>Resources/LGNibStyleItemViewController.nib/keyedobjects.nib</key>
-		<data>
-		GzXk/VzBrjUt4sVAw8xbZeOLvIE=
-		</data>
-		<key>Resources/LGNibStylesViewController.nib/keyedobjects-101300.nib</key>
-		<data>
-		5ibGsi/u5t2wrpoNB4A6gJx0YJI=
-		</data>
-		<key>Resources/LGNibStylesViewController.nib/keyedobjects.nib</key>
-		<data>
-		UDJr5B+hwalAtAGtoUpRWkwq86Y=
-		</data>
-		<key>Resources/LGNibViewController.nib/keyedobjects-101300.nib</key>
-		<data>
-		DOYGi/0yImYEBFU7mAc20GW4+wA=
-		</data>
-		<key>Resources/LGNibViewController.nib/keyedobjects.nib</key>
-		<data>
-		9bTqf62UW3prPTsqsYs6K6PbFf0=
-		</data>
-		<key>Resources/LGOldFileVersionViewController.nib/keyedobjects-101300.nib</key>
-		<data>
-		Pq1WPdyd2fEX1xRHoZpgZoeBTQk=
-		</data>
-		<key>Resources/LGOldFileVersionViewController.nib/keyedobjects.nib</key>
-		<data>
-		2X39CoU62QvKYw4ZJKL2rLwsj58=
-		</data>
-		<key>Resources/licencePublicKey.pem</key>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lgSZBJn3XJnDHhA2AUKiixx1pcg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/licensePublicKey.pem</key>
 		<data>
 		047ysaUeqk8cFPNsj07GfYccmrk=
 		</data>
+		<key>Resources/zh-Hans.lproj/LGFontMasterViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tr2ijEkTKFaMm9Z2EY6WTA1edU4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGInactiveLicenseViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tkafmtbln6ObabIyfzzLCFV6Tog=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGIncompatibleGlyphsVersionViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OrHkAvw/c852fP1mOibQrIgSRvQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGLogoMenuViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0X/Z9Ig3VeZEmU+WIjfr0Y7GrVU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGMainInspectorViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iAplgmW9lebssvx6WUIrCThkMC8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibStyleItemViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BsiJ+FZNgkCSGqPA1nzJhwI/6XQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibStylesViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2VJd1Yx74f7mX/y8JnicaO91F7Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c1OosrpECUNYoO6R1PS9Vt9yoyc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGOldFileVersionViewController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			noVNKdGfUak0jz9IFpIDVP8XBWA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGRequestTrialLicenseWindowController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6vJyLHwzJtg+pxAzNR+Y46W0S4E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iJ/BbytN39ylDsjCEVQ8IAJ1/2Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -224,169 +292,207 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qdYRXJb9aOzt/1thuBGWXDLxH8bJ8cjXUqxJPtaZXfA=
+			3v644Q5rKsWNNbknvjiOjbiihBXQHVrkYCnhmh28rVg=
 			</data>
 		</dict>
-		<key>Resources/LGFontMasterViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XV6ursf9rdIx/0niy/acGiFWemzbNNrYf/J41WhJJ74=
+			cdpkuFZpIxx6nr/wiBPXVUaoQKYb640LFGsK49xS/7w=
 			</data>
 		</dict>
-		<key>Resources/LGFontMasterViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGInactiveLicenseViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X+ldmElCAvPh6yhzihaxxi8yvyGBdR6RLGyGrHreIQc=
+			KhMcCXC++oE0ZXfZMstx5h8OByM95gGiXuoi7Zeo2mQ=
 			</data>
 		</dict>
-		<key>Resources/LGInactiveLicenseViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGIncompatibleGlyphsVersionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1cFSvY7s11NMLzfSj+pRjpVq8oUF+M2vmArrZtL6h6k=
+			0Aia3RpV+Eu8nby1AGmQIt75CgLlMfARYOFMQD4UL8Q=
 			</data>
 		</dict>
-		<key>Resources/LGInactiveLicenseViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGLogoMenuViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SrGwvZv7NgGj6xy2skQEx4UiY7pts/Bf6H+GMNFhkUY=
+			cqAIohobMZ+/KO711NO/9NjuNne2Stxo5VWACDKD3LE=
 			</data>
 		</dict>
-		<key>Resources/LGIncompatibleGlyphsVersionViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGMainInspectorViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NpMh86UdI8RJHiG1IDiDqx+HtiE0U/na3fRrL2or/kQ=
+			TnazidQaO1Wvh+cFkYduwSdavldY61U7xeIp7SHFdVo=
 			</data>
 		</dict>
-		<key>Resources/LGIncompatibleGlyphsVersionViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGNibStyleItemViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cQZPv5hNJIBF6wpioGnm6sZ9Wg8LjEbIT4JMalBgmjE=
+			dCnkH1ZxHLMuz3r/xDsX/tz4RzofYsclh/Q+EUM4WLg=
 			</data>
 		</dict>
-		<key>Resources/LGLegacyStraightLineNibDataViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGNibStylesViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EaqsXnaqVQSLy/04Ake4gEsngn5huKxc+YNtIdn7d50=
+			oukq6hAg33nE8bEcwKjh6OZF44A3SwZ7uCRKLvOFj4M=
 			</data>
 		</dict>
-		<key>Resources/LGLegacyStraightLineNibDataViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGNibViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3BJySFuTiIZWSX3mPkaztpqhO/yxG2nH4wDuW895gcw=
+			5XxgsNfUzKgavHJQPJFJtKXPALsLpmwwXJ87QW08wPg=
 			</data>
 		</dict>
-		<key>Resources/LGLogoMenuViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/Base.lproj/LGOldFileVersionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XBvapb0oARvdP/DfOQIis/Mh86NZhgs1JLwy3rYQkPc=
+			+uoJhBs6f3eLUPyjVjVjwdHSzb6+51cgvF4iIIpP6kQ=
 			</data>
 		</dict>
-		<key>Resources/LGLogoMenuViewController.nib/keyedobjects.nib</key>
+		<key>Resources/Base.lproj/LGRequestTrialLicenseWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qxb8Zfd9YMYOMbZq36B90y/XVdhJyD7MZKQeio5L1Xk=
+			3MXCoA4JO2S7uK+Lr1S/pApVR8utRKfsxhihdJKnia4=
 			</data>
 		</dict>
-		<key>Resources/LGMainInspectorViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9MUbosde2KCPBjvcq79Bomzq+lvH38nuv+5eBs/eNM=
+			nQgKUcCkkpaDE//cnauWWyFWWoB6MWYM9uqBwG2PV3w=
 			</data>
 		</dict>
-		<key>Resources/LGMainInspectorViewController.nib/keyedobjects.nib</key>
+		<key>Resources/LGNibEllipsisNibDataViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rKbhc+938K8H0HOnkBjIlCs8G1+LYoKpt4icQLk9RkI=
+			avxzU+v7OKfP4q+2lR23qZ7UErBc0xHO/N/UkO67urA=
 			</data>
 		</dict>
-		<key>Resources/LGNibEllipsisNibDataViewController.nib/keyedobjects-101300.nib</key>
+		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kfo0Cp4VdLLYcCndXzfwn7SK0hCIa7mQP7GuP/k1Rdk=
+			n96Tb5+pq0bio7fRnZTUIiT12pa2N8W/QgfOue3n/9Y=
 			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
-		<key>Resources/LGNibEllipsisNibDataViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P0XSoUL+yNH3p/PtRlYD5N6hnVAXxVZXln0Y2HVpjQI=
-			</data>
-		</dict>
-		<key>Resources/LGNibStyleItemViewController.nib/keyedobjects-101300.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qVBjZN1J2VZ8Vy7l2Dao8daHSBFo42KD5R7dBV6/C4I=
-			</data>
-		</dict>
-		<key>Resources/LGNibStyleItemViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IcFNDj+AfsAJhEFpN3OzHdhHa7rUgTr81ndiRpSt9dY=
-			</data>
-		</dict>
-		<key>Resources/LGNibStylesViewController.nib/keyedobjects-101300.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LyQ565OIhZmGN9Rfwct7fYL2HPBeBa5vAaGYvv5zyQs=
-			</data>
-		</dict>
-		<key>Resources/LGNibStylesViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			2pU1HHDRte/P0N6fzKuqEMm0ted06QN/hTByMFRfDTo=
-			</data>
-		</dict>
-		<key>Resources/LGNibViewController.nib/keyedobjects-101300.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			aDFBWpLySne/4F8tL7wbjvf6f9M1htEwPzzHsvpTSx8=
-			</data>
-		</dict>
-		<key>Resources/LGNibViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LWU/P2gsviInQliL9OtNufjVsLISUZa0zJyppLBNoiE=
-			</data>
-		</dict>
-		<key>Resources/LGOldFileVersionViewController.nib/keyedobjects-101300.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qNmsOB5cfkHCdC0jwi9H//MHjVMtnEgfE6R+PTJZzAs=
-			</data>
-		</dict>
-		<key>Resources/LGOldFileVersionViewController.nib/keyedobjects.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZW4P8V5VrALsCOBFTAGDRn+ZpYUE39ZRp3BZ7tTLwyc=
-			</data>
-		</dict>
-		<key>Resources/licencePublicKey.pem</key>
+		<key>Resources/licensePublicKey.pem</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			SvdXb9WalTIFJIYcw2f6Hj9CwXd8oIFzQOFBWztXQ6g=
 			</data>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGFontMasterViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			12KtDjBjsRvdpBZLux9BHtYAV1lGbeJN0d02CthyQAs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGInactiveLicenseViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lfv475RN9A/MT2Xe7YlrbL/ZwY/1YMdpbhfBRkhKPq0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGIncompatibleGlyphsVersionViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1+wh7EQwWhoj29RjdiBQhkhD9scbp7WVPoX1gB3GvLg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGLogoMenuViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Yo0x3VChXbJr9POmjA2az7wT+KfzVn84HJyS1lGxIo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGMainInspectorViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cMMuQLwtI1Qa1YWgvRhRr32B6mvV1tvF8Qt7uErBKnA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibStyleItemViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1kHqdXlIJxrR8nzuRfynMZbHAy6LaKUVxFpzhcM6xJ0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibStylesViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tFRWz1DoZfnfKxZGuur4foYnn5/m4qFc1p94XxMwCeg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGNibViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sTaSECIetsMVg6EPiy3UuEfmNIUpDnsPkEj98DR7K4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGOldFileVersionViewController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NZfRZDbiUct7s1D6QMEQ8737h0W0Cj9MJ63ImP0kZX8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGRequestTrialLicenseWindowController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kcfJBoNqwosiE6STlIjCElGMULw5L9DAmFCqQdNvZd4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AOHs33U1H8xXDzmltJGU8PkVl0j9pCWVFRTVWH4GPxU=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
