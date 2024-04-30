@@ -1,0 +1,318 @@
+{
+	".appVersion" = 3058;
+	DisplayStrings = (
+		non,
+	);
+	date = "2021-02-16 16:53:20 +0000";
+	designerURL = "lttrink.com";
+	familyName = Serif;
+	fontMaster = (
+		{
+			alignmentZones = (
+				"{800, 16}",
+				"{700, 16}",
+				"{500, 16}",
+				"{0, -16}",
+				"{-200, -16}",
+			);
+			ascender = 800;
+			capHeight = 700;
+			customParameters = (
+				{
+					name = "Master Icon Glyph Name";
+					value = n;
+				},
+			);
+			descender = "-200";
+			id = m01;
+			userData = {
+				"Letterink-NibData" = {
+					MainAxisWidth = 20;
+					MinorAxisWidth = 10;
+				};
+			};
+			weight = Light;
+			xHeight = 500;
+		},
+		{
+			alignmentZones = (
+				"{800, 16}",
+				"{700, 16}",
+				"{500, 16}",
+				"{0, -16}",
+				"{-200, -16}",
+			);
+			ascender = 800;
+			capHeight = 700;
+			customParameters = (
+				{
+					name = "Master Icon Glyph Name";
+					value = n;
+				},
+			);
+			descender = "-200";
+			id = m002;
+			xHeight = 500;
+		},
+		{
+			alignmentZones = (
+				"{800, 16}",
+				"{700, 16}",
+				"{500, 16}",
+				"{0, -16}",
+				"{-200, -16}",
+			);
+			ascender = 800;
+			capHeight = 700;
+			customParameters = (
+				{
+					name = "Master Icon Glyph Name";
+					value = n;
+				},
+			);
+			descender = "-200";
+			id = m003;
+			userData = {
+				"Letterink-NibData" = {
+					MainAxisWidth = 50;
+				};
+			};
+			weight = Bold;
+			xHeight = 500;
+		},
+	);
+	glyphs = (
+		{
+			glyphname = n;
+			lastChange = "2021-02-16 17:27:10 +0000";
+			layers = (
+				{
+					layerId = m01;
+					paths = (
+						{
+							closed = 0;
+							nodes = (
+								"130 495 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 40;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"130 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 40;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"143 394 LINE {\"Letterink-NibData\" = {AngleInDegrees = 5;\nMainAxisWidth = -15;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"192 452 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = 6.01826;\nMainAxisWidth = 7.44278;\nValidForParentMainAxisWidth = 60;};}",
+								"256 490 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -7.6094;\nMainAxisWidth = -6.60082;\nValidForParentMainAxisWidth = 60;};}",
+								"327 490 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -20;\nMainAxisWidth = 40;\nMinorAxisWidth = 15;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"407 490 OFFCURVE",
+								"446 436 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 36;\nMinorAxisWidth = 5.87952;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 366 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -25;\nMainAxisWidth = 41;\nMinorAxisWidth = 40;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 40;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+								"242 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"334 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+								"561 5 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 495 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+								"155 495 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -10;\nValidForParentMainAxisWidth = 20;};}",
+							);
+						},
+					);
+					width = 566;
+				},
+				{
+					layerId = m002;
+					paths = (
+						{
+							closed = 0;
+							nodes = (
+								"130 490 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"130 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"153 394 LINE {\"Letterink-NibData\" = {AngleInDegrees = 5;\nMainAxisWidth = -20;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"197 448 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = 6.01826;\nMainAxisWidth = 7.44278;\nValidForParentMainAxisWidth = 60;};}",
+								"272 483 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -7.6094;\nMainAxisWidth = -6.60082;\nValidForParentMainAxisWidth = 60;};}",
+								"334 483 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -15;\nMainAxisWidth = 60;\nMinorAxisWidth = 15;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"406 483 OFFCURVE",
+								"446 436 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 36;\nMinorAxisWidth = 5.87952;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 367 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -20;\nMainAxisWidth = 68;\nMinorAxisWidth = 20;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -20;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+								"242 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -20;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"334 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -20;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+								"561 10 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -20;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 490 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -20;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+								"165 490 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -9;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+					);
+					width = 566;
+				},
+				{
+					layerId = m003;
+					paths = (
+						{
+							closed = 0;
+							nodes = (
+								"130 488 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"130 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"163 404 LINE {\"Letterink-NibData\" = {AngleInDegrees = 5;\nMainAxisWidth = -30;\nValidForParentMainAxisWidth = 50;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"217 448 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = 6.01826;\nMainAxisWidth = 7.44278;\nValidForParentMainAxisWidth = 60;};}",
+								"280 482 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -7.6094;\nMainAxisWidth = -6.60082;\nValidForParentMainAxisWidth = 60;};}",
+								"338 482 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -15;\nMainAxisWidth = 75;\nMinorAxisWidth = 10;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"10\";}",
+								"410 482 OFFCURVE",
+								"446 436 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 36;\nMinorAxisWidth = 5.87952;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 372 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -25;\nMainAxisWidth = 106;\nMinorAxisWidth = 49;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+								"446 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 60;\nMinorAxisWidth = -5;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};\n\"Letterink-NibStyleId\" = \"11\";}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -30;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"242 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -30;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"334 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -30;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"561 12 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -30;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"15 488 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -30;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"193 488 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -26;\nMinorAxisWidth = 9;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+					);
+					width = 571;
+				},
+			);
+			unicode = 006E;
+		},
+		{
+			glyphname = o;
+			lastChange = "2021-02-16 17:30:32 +0000";
+			layers = (
+				{
+					layerId = m01;
+					paths = (
+						{
+							closed = 1;
+							nodes = (
+								"388 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"475 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"475 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 44;\nMinorAxisWidth = 30;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};}",
+								"475 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"388 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"273 500 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nValidForParentMainAxisWidth = 20;};}",
+								"157 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 44;\nMinorAxisWidth = 30;\nValidForParentMainAxisWidth = 20;\nValidForParentMinorAxisWidth = 10;};}",
+								"70 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"157 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"273 0 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nValidForParentMainAxisWidth = 20;};}",
+							);
+						},
+					);
+					width = 545;
+				},
+				{
+					layerId = m002;
+					paths = (
+						{
+							closed = 1;
+							nodes = (
+								"388 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"475 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"475 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 66;\nMinorAxisWidth = 45;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+								"475 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"388 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"273 500 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nValidForParentMainAxisWidth = 30;};}",
+								"157 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 66;\nMinorAxisWidth = 45;\nValidForParentMainAxisWidth = 30;\nValidForParentMinorAxisWidth = 15;};}",
+								"70 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"157 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"273 0 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nValidForParentMainAxisWidth = 30;};}",
+							);
+						},
+					);
+					width = 545;
+				},
+				{
+					layerId = m003;
+					paths = (
+						{
+							closed = 1;
+							nodes = (
+								"388 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"475 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"475 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 110;\nMinorAxisWidth = 85;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"475 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"388 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;};}",
+								"273 500 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"157 500 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 398 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"70 250 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 110;\nMinorAxisWidth = 85;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+								"70 102 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 30;};}",
+								"157 0 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = -40;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 60;\nValidForParentMinorAxisWidth = 30;};}",
+								"273 0 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMainAxisWidth = 10;\nMinorAxisWidth = 5;\nValidForParentMainAxisWidth = 50;\nValidForParentMinorAxisWidth = 15;};}",
+							);
+						},
+					);
+					width = 545;
+				},
+			);
+			unicode = 006F;
+		},
+	);
+	unitsPerEm = 1000;
+	userData = {
+		"Letterink-ComputationAllowed" = "YES_BY_DEFAULT";
+		"Letterink-FileVersion" = 7;
+		"Letterink-MinimumCompatibleMarketingVersion" = "1.1 (2021-02-12)";
+	};
+	versionMajor = 1;
+	versionMinor = 0;
+}
