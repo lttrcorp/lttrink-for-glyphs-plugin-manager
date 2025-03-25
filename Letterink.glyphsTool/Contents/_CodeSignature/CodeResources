@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Base.lproj/LGEditStrokeStyleWindowController.nib</key>
 		<data>
-		VOfxjH+w9VvcEvHCBM4CcHZ1RQ0=
+		VXWfCMdzgTiSbFN1BtsaR1S1DI8=
 		</data>
 		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Resources/Base.lproj/LGLogoMenuViewController.nib</key>
 		<data>
-		xD9fYqLaQxghY0cmteUnXzBNQX4=
+		a1o1Z15akWZM/qGKW502rxic7F4=
 		</data>
 		<key>Resources/Base.lproj/LGMainInspectorViewController.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/Base.lproj/LGStrokeStylesWindowController.nib</key>
 		<data>
-		+ZlS3W8klwqh3A6ZoBmj2bsLLjI=
+		81W/ZHGQoWSVOcTl/d/ZIKQbsMs=
 		</data>
 		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>
 		<data>
@@ -69,6 +69,15 @@
 		<data>
 		047ysaUeqk8cFPNsj07GfYccmrk=
 		</data>
+		<key>Resources/zh-Hans.lproj/LGEditStrokeStyleWindowController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NEQFZKui95k82ZoQNf/4Pc7TcCg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/LGFontMasterViewController.strings</key>
 		<dict>
 			<key>hash</key>
@@ -118,7 +127,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			c1OosrpECUNYoO6R1PS9Vt9yoyc=
+			ARTn+Vj6voQmTr/pr1SkHtnYZ7E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -141,11 +150,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/LGStrokeStylesWindowController.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X4ntxbzMPrNCPX88RnqcVeqJ4FQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jBDrqfpbArWax5xUtvo0QV7IuAM=
+			ODDrMFm9JWNlbzKvzlWxZGCP6bQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -164,7 +182,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			53FHW7SKI/ygVGkciZYjnRVuJ52pCXP8amMlssNiAp0=
+			CzcK6kpE9Rcdt3Fw8MJcZivnIoSb31tDcmxxOr3ozdM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
@@ -192,7 +210,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JTi9m9PHwxDklNlizeAMafVGAJC2TPvCUml1KLGcPgU=
+			uu0Ywe63bH/7Y7NDjswB8lcg+3bQdYc9XYrRYQuHqXU=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LGMainInspectorViewController.nib</key>
@@ -227,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8zm3Ko/lGMp38DkVPQVLD6OMEhHUvTxfPt6EXMj2NB8=
+			I1+0eZ35JM3xcKZOh7GM4ScRCTspy9PzsgYzPAQHjCQ=
 			</data>
 		</dict>
 		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>
@@ -259,6 +277,15 @@
 			<data>
 			SvdXb9WalTIFJIYcw2f6Hj9CwXd8oIFzQOFBWztXQ6g=
 			</data>
+		</dict>
+		<key>Resources/zh-Hans.lproj/LGEditStrokeStyleWindowController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M4Zol60P+fnAmlZ9ZLyg9hfBb0cJIgEme28PynMTzwA=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/zh-Hans.lproj/LGFontMasterViewController.strings</key>
 		<dict>
@@ -309,7 +336,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sTaSECIetsMVg6EPiy3UuEfmNIUpDnsPkEj98DR7K4g=
+			YAK+K1zUWVxNiSKiTgZnQXjR+0+nGagbfhonnO2ekqM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -332,11 +359,20 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Resources/zh-Hans.lproj/LGStrokeStylesWindowController.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LmptrSlOFitaeiVn5/82j3tZKPvpB4KQG4m1SmfmUgI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KqUjgHkLHskbje9WvXaFO9pneHVPytnDDGeM6dyWhgY=
+			AqhmPQZnbh7AEtgpqAqet7naJKZv0fVMZGKLbdRQrX8=
 			</data>
 			<key>optional</key>
 			<true/>
