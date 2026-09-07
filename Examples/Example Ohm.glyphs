@@ -1,0 +1,124 @@
+{
+	".appVersion" = 3058;
+	DisplayStrings = (
+		"/ohm",
+	);
+	date = "2021-02-17 20:13:56 +0000";
+	designerURL = "lttrink.com";
+	familyName = Ohm;
+	fontMaster = (
+		{
+			alignmentZones = (
+				"{800, 16}",
+				"{700, 16}",
+				"{500, 16}",
+				"{0, -16}",
+				"{-200, -16}",
+			);
+			ascender = 800;
+			capHeight = 700;
+			descender = "-200";
+			id = m01;
+			userData = {
+				"Letterink-NibData" = {
+					AngleInDegrees = 90;
+					MainAxisWidth = 80;
+					MinorAxisWidth = 40;
+				};
+			};
+			xHeight = 500;
+		},
+	);
+	glyphs = (
+		{
+			glyphname = ohm;
+			lastChange = "2021-02-17 20:50:29 +0000";
+			layers = (
+				{
+					layerId = m01;
+					paths = (
+						{
+							closed = 0;
+							nodes = (
+								"129 418 LINE {\"Letterink-NibData\" = {AngleInDegrees = 35;\nMainAxisWidth = 10;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"165 452 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = 30;\nMainAxisWidth = 10;\nMinorAxisWidth = -20;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"215 476 OFFCURVE",
+								"258 476 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 47.42192;\nMainAxisWidth = 10.18156;\nMinorAxisWidth = 26;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"308 476 OFFCURVE",
+								"345 439 OFFCURVE",
+								"345 397 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 29.55825;\nMainAxisWidth = -38.45216;\nMinorAxisWidth = -3.52812;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"345 361 OFFCURVE",
+								"313 297 OFFCURVE",
+								"194 302 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 23;\nMainAxisWidth = -30;\nMinorAxisWidth = -39;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"212 261 LINE {\"Letterink-NibData\" = {AngleInDegrees = 23.67669;\nMainAxisWidth = -18.12244;\nMinorAxisWidth = -39;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"265 275 OFFCURVE",
+								"368 238 OFFCURVE",
+								"368 153 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 34.59254;\nMainAxisWidth = -17.39691;\nMinorAxisWidth = 4.70287;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"368 90 OFFCURVE",
+								"307 34 OFFCURVE",
+								"238 34 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 27.81042;\nMainAxisWidth = 12.76502;\nMinorAxisWidth = 44.39652;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"155 34 OFFCURVE",
+								"47 111 OFFCURVE",
+								"47 272 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 10;\nMainAxisWidth = -76;\nMinorAxisWidth = -34;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"323 600 LINE {\"Letterink-NibData\" = {AngleInDegrees = -70;\nMainAxisWidth = -74;\nMinorAxisWidth = -36;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"335 530 OFFCURVE",
+								"399 478 OFFCURVE",
+								"460 478 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 29.9303;\nMainAxisWidth = -5.62735;\nMinorAxisWidth = 4.18641;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"514 478 OFFCURVE",
+								"572 501 OFFCURVE",
+								"605 542 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 40;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 40;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"421 614 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 40;};}",
+								"475 562 LINE {\"Letterink-NibData\" = {AngleInDegrees = -45;\nMinorAxisWidth = -20;\nValidForParentMinorAxisWidth = 40;};}",
+							);
+						},
+						{
+							closed = 0;
+							nodes = (
+								"262 283 LINE {\"Letterink-NibData\" = {AngleInDegrees = -22.0062;\nMainAxisWidth = -62.48695;\nMinorAxisWidth = -30.73194;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"359 228 OFFCURVE",
+								"410 271 OFFCURVE {\"Letterink-NibData\" = {AngleInDegrees = 39.7979;\nMainAxisWidth = 89.93803;\nValidForParentMainAxisWidth = 80;};}",
+								"440 320 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 10.2608;\nMainAxisWidth = 31.22189;\nValidForParentMainAxisWidth = 80;};}",
+								"471 370 OFFCURVE",
+								"492 407 OFFCURVE",
+								"549 407 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 41.41224;\nMainAxisWidth = -9.80033;\nValidForParentMainAxisWidth = 80;};}",
+								"617 407 OFFCURVE",
+								"664 319 OFFCURVE",
+								"664 251 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 22.78849;\nMainAxisWidth = -21.78061;\nMinorAxisWidth = -5.4466;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"664 163 OFFCURVE",
+								"623 86 OFFCURVE",
+								"549 86 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = 22.90208;\nMainAxisWidth = 8.94836;\nMinorAxisWidth = 9.92664;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+								"493 86 OFFCURVE",
+								"450 153 OFFCURVE",
+								"443 215 CURVE SMOOTH {\"Letterink-NibData\" = {AngleInDegrees = -20;\nMainAxisWidth = -76;\nMinorAxisWidth = -34;\nValidForParentMainAxisWidth = 80;\nValidForParentMinorAxisWidth = 40;};}",
+							);
+						},
+					);
+					width = 732;
+				},
+			);
+		},
+	);
+	unitsPerEm = 1000;
+	userData = {
+		"Letterink-ComputationAllowed" = "YES_BY_DEFAULT";
+		"Letterink-FileVersion" = 7;
+		"Letterink-MinimumCompatibleMarketingVersion" = "1.1 (2021-02-12)";
+	};
+	versionMajor = 1;
+	versionMinor = 0;
+}
