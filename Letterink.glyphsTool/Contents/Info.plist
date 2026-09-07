@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>24E263</string>
+	<string>24G830</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.5</string>
+	<string>1.6</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,23 +25,23 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>23</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>24A336</string>
+	<string>24F74</string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>15.0</string>
+	<string>15.5</string>
 	<key>DTSDKBuild</key>
-	<string>24A336</string>
+	<string>24F74</string>
 	<key>DTSDKName</key>
-	<string>macosx15.0</string>
+	<string>macosx15.5</string>
 	<key>DTXcode</key>
-	<string>1600</string>
+	<string>1640</string>
 	<key>DTXcodeBuild</key>
-	<string>16A242d</string>
+	<string>16F6</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>11.5</string>
 	<key>MaxGlyphsVersion</key>
@@ -49,7 +49,7 @@
 	<key>MinGlyphsVersion</key>
 	<string>3.0</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>© 2025 Letterink s. r. o., lttrink.com</string>
+	<string>© 2026 Letterink s. r. o., lttrink.com</string>
 	<key>NSPrincipalClass</key>
 	<string>Letterink</string>
 	<key>productPageURL</key>

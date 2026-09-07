@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		vxsYNpgxL0G8sgkjYDeLyukjBxY=
+		1+83agd2lKPNC2n2ocQck4kD7dw=
 		</data>
 		<key>Resources/Base.lproj/LGEditStrokeStyleWindowController.nib</key>
 		<data>
-		XvjxBerjuKwAP93nhzLry9szHl4=
+		FHA52vna8nWlfqadgyhzJZKf6Ss=
 		</data>
 		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Resources/Base.lproj/LGMainInspectorViewController.nib</key>
 		<data>
-		k/D+GOEjMh8xpbgmjeGWc3sv6So=
+		lAJy7rjnPtn+0HGHcfosfGCWtfY=
 		</data>
 		<key>Resources/Base.lproj/LGNibViewController.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Resources/Base.lproj/LGStrokeStylesWindowController.nib</key>
 		<data>
-		TUMfvastB5/01KKFjnh3qYukvw8=
+		giplEMJ6KyJQenxH8lPW6ev6W/c=
 		</data>
 		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>
 		<data>
@@ -175,14 +175,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			otwg0pRHjpb4NEaSZuZrucjuw9UtCMt4AJ90Lea0xAs=
+			wt5ejBNcSKil2yTnaGYdLGUBJL1vaMpY/MPxHK75J7U=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LGEditStrokeStyleWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IFiNAGB+JbACyU+EzNfYajAMiMut1q7kantU5dzXcLY=
+			mxhfD2C6y1TEXQSYFLG1QFWM6M+qcGoC2TbAYU9l5Ac=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LGFontMasterViewController.nib</key>
@@ -217,7 +217,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gBc/3TScrggqFZimTfmgZDGCnrKIQZjyDyn2q3BLe8M=
+			Qs14k7F8MZ3u5ABStuvj3jE8FvegjsA9v79W8cIX/Bw=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/LGNibViewController.nib</key>
@@ -245,7 +245,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HNQCkif5BqWlEYoQ4GadnnW5ambu0J8lC+3YPwlllMo=
+			U7a33r/CBBR+VE3pPiFM4mhcUeFC/3u+3YM808xaTmw=
 			</data>
 		</dict>
 		<key>Resources/LGLegacyStraightLineNibDataViewController.nib</key>

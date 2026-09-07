@@ -1,6 +1,6 @@
 # LTTR/INK for Glyphs 3
 
-> Switch to the *master* branch for LTTR/INK for Glyphs 2.
+> To use LTTR/INK with other Glyphs versions, check out the corresponding branch.
 
 > LTTR/INK for Glyphs 3 requires macOS 11.0 or later. Use version 1.3 or earlier for macOS from 10.13 to 10.15.
 
