@@ -1,8 +1,8 @@
 # LTTR/INK for Glyphs 2
 
-> This is the LTTR/INK for Glyphs 2 version, supporting macOS 10.12 or later. For other Glyphs versions, use the corresponding branch.
+> LTTR/INK for Glyphs 2 supports macOS 10.12 or later. To use LTTR/INK with other versions of Glyphs, use the corresponding branch.
 
-> Support for Glyphs 2 has ended. To continue receiving updates, please upgrade to a currently supported version of Glyphs.
+> Support for LTTR/INK for Glyphs 2 has ended. To continue receiving updates, please upgrade to a currently supported version of Glyphs.
 
 [LTTR/INK](https://www.lttrink.com/?utm_source=glpgh&utm_medium=inkap&utm_campaign=gl2&utm_content=glpghlk&utm_term=lttrink) is the stroke contrast tool **inspired by Gerrit Noordzij’s The stroke: theory of writing**. Prototype rich stroke shapes of your letters with **skeletons** and use the stroke styles for **parametric** type design.
 
