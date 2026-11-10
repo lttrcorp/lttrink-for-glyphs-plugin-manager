@@ -1,3 +1,3 @@
-Version: 1.6.0.34
-Build date: 2026-09-07
-Commit: 31e79cd
+Version: 1.7.0.6
+Build date: 2026-11-09
+Commit: ad9daa8
