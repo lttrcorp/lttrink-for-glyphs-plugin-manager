@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.6</string>
+	<string>1.7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>34</string>
+	<string>6</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -43,7 +43,7 @@
 	<key>DTXcodeBuild</key>
 	<string>16F6</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>11.5</string>
+	<string>12.4</string>
 	<key>MaxGlyphsVersion</key>
 	<string>3.99</string>
 	<key>MinGlyphsVersion</key>
